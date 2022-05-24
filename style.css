@@ -1,0 +1,21 @@
+.container  div{
+    border: 1px solid#ccc;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.box1 {
+    flex: 1;
+}
+
+.box2 {
+    flex: 1;
+}
+
+.box3 {
+    flex: 1;
+}
